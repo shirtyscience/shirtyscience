@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shirty Science</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #396F72;
+  color: white;
+}
+
+.fa-twitter {
+  background: #396F72;
+  color: white;
+}
+
+
+.fa-instagram {
+  background: #396F72;
+  color: white;
+}
+
+body {
+  background-color: #396F72;
+  text-align: center;
+  color: white;
+  font-family: Consolas;
+}
+</style>
+</head>
+<body>
+<br>
+<br>
+<p>super sorry<p>
+<h1>shirty science</h1>
+<h2>is taking a break</h2>
+<br>
+<br>
+<p>follow on social media to keep updated</p>
+
+
+
+<a href="https://www.facebook.com/ShirtyScience/" class="fa fa-facebook"></a>
+<a href="https://twitter.com/shirtyscience" class="fa fa-twitter"></a>
+<a href="https://www.instagram.com/shirtyscience/" class="fa fa-instagram"></a>
+
+<p>shirty.science@gmail.com</p>
+      
+</body>
+</html> 
+
+
+
